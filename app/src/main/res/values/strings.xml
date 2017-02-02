@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">E-Mail</string>
+    <string name="repassword">Reinserisci Password</string>
+    <string name="registrati">REGISTRATI</string>
+    <string name="registratiPic">Registrati</string>
+    <string name="num_telefono">Numero Telefono</string>
+    <string name="login_err">Un campo non è valido</string>
+    <string name="reg_ok">Registrazione in corso...</string>
+    <string name="log_ok">Connessione in corso...</string>
+    <string name="recupera">RECUPERA</string>
+    <string name="reg_fail">Registrazione fallita.</string>
+    <string name="rec">Password Dimenticata?</string>
+    <string name="login">LOGIN</string>
+    <string name="reg">Registrazione</string>
+    <string name="recuperap">Recupera Password</string>
+    <string name="nominativo">Nominativo</string>
+    <string name="auth_failed">E-Mail e/o Password errati</string>
+    <string name="reg_err">Un campo non è valido</string>
+</resources>
